@@ -5,3 +5,5 @@ __pycache__/
 *.db
 .DS_Store
 Thumbs.db
+f1_raw_merged_master.csv
+Apex_Predictors_24257694.ipynb
